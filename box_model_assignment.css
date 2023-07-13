@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(243, 231, 231);
+}
+h1{
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.container {
+    text-align: center;
+  }
+.box{
+    display:inline-block;
+    width: 380px;
+    height: 270px;
+    background-color: white;
+    margin-left: 15px;
+    margin-top: 20px;
+    border-bottom-left-radius:10px ;
+    border-bottom-right-radius:10px ;
+    box-shadow: 5px 2px rgb(242, 235, 235);
+}
+
+.head1{
+   background-color: rgb(244, 39, 189);
+   height: 18px;
+}
+.head2{
+   background-color: rgb(76, 141, 220);
+   height: 18px;
+}
+.head3{
+   background-color: rgb(11, 218, 94);
+   height: 18px;
+}
+.head4{
+   background-color: rgb(225, 228, 25);
+   height: 18px;
+}
+.head5{
+   background-color: rgb(188, 26, 177);
+   height: 18px;
+}
+.head6{
+   background-color: rgb(236, 134, 185);
+   height: 18px;
+}
+
+.icon1{
+    padding: 20px;
+    background-color: rgb(244, 39, 189);
+    width: 50px;
+    height: 50px;
+    border-radius: 100px;
+    margin: 15px;
+}
+.icon2{
+    padding: 20px;
+    background-color: rgb(76, 141, 220);
+    width: 50px;
+    height: 50px;
+    border-radius: 100px;
+    margin: 15px;
+}
+.icon3{
+    padding: 20px;
+    background-color: rgb(11, 218, 94);    width: 50px;
+    height: 50px;
+    border-radius: 100px;
+    margin: 15px;
+}
+.icon4{
+    padding: 20px;
+    background-color: rgb(225, 228, 25);
+    width: 50px;
+    height: 50px;
+    border-radius: 100px;
+    margin: 15px;
+}
+.icon5{
+    padding: 20px;
+    background-color: rgb(188, 26, 177);
+    width: 50px;
+    height: 50px;
+    border-radius: 100px;
+    margin: 15px;
+}
+.icon6{
+    padding: 20px;
+    background-color: rgb(236, 134, 185);
+    width: 50px;
+    height: 50px;
+    border-radius: 100px;
+    margin: 15px;
+}
+h3{
+    margin-left: 20px;
+    text-align: left;
+    margin-bottom: 8px;
+    color: rgb(92, 88, 88);
+}
+p{
+text-align: left;
+margin-left: 20px;
+}
+
+.button{
+    background-color:rgb(237, 22, 179) ;
+    width: 100px;
+    height: 27px;
+    color: white;
+    border-radius: 10px;
+    padding: 15px;
+    margin-top: 20px;
+    margin-left: 630px;
+    align-items: center;
+    font-weight: 500;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+
+}
+
